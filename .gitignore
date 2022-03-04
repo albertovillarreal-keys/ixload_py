@@ -1,0 +1,6 @@
+# IDEs
+.idea/
+
+# python bytecode directory
+__pycache__/
+*.pyc
