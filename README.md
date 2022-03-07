@@ -1,10 +1,10 @@
 # Package for IxLoad Automation 
 
 ## To Install:
-pip install ixload-py
+pip install ixload
 
 ## To import into project
-from ixload_py import IxLoadUtils \
-from ixload_py import IxLoadTestSettings \
-from ixload_py import IxRestUtils \
-from ixload_py import IxRestPyUtils
+from ixload import IxLoadUtils \
+from ixload import IxLoadTestSettings \
+from ixload import IxRestUtils \
+from ixload import IxRestPyUtils
