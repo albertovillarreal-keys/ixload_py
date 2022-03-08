@@ -10,6 +10,6 @@ from ixload import IxLoadTestSettings as TestSettings \
 from ixload import IxRestUtils as IxRestUtils \
 from ixload import IxRestPyUtils as IxRestPyUtils
 
-## Additional information IxLoad Modules
+##Information on IxLoad Modules visit github.com/OpenIxia
 [OpenIxia](https://github.com/OpenIxia/IxLoad)
 
