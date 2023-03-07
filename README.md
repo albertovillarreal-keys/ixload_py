@@ -1,5 +1,6 @@
 # Package for IxLoad Automation
-[![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)](#)
+[![Python 2.7](https://img.shields.io/badge/Python-2.7-blue.svg)](#)
+[![Python 3](https://img.shields.io/badge/Python-3-blue.svg)](#)
 
 ## To Install:
 pip install ixload
